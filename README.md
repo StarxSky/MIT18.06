@@ -10,7 +10,6 @@ At same time, **Feel free to contribute suggestions or other improvements to thi
 - [ ] Addition : Transposes and Permutations 
 - [x] Addition : Singular Matrix
 - [ ] Chapter 3 : Vector Space
-- [ ] 
 
 ## Copyright 
 All the content are based on the LICENSE :[CC BY-ND 4.0](https://github.com/StarxSky/Linear-Algebra/blob/main/LICENSE)
